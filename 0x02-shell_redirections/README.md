@@ -1,10 +1,1 @@
-Script started, output log file is 'that'.
-[?2004h]0;mark@mark-Lenovo-G50-70: ~/alx-system_engineering-devops/0x02-shell_redirections[01;32mmark@mark-Lenovo-G50-70[00m:[01;34m~/alx-system_engineering-devops/0x02-shell_redirections[00m$ ls
-[?2004l[0m[01;32m0-hello_world[0m  README.md  that
-[?2004h]0;mark@mark-Lenovo-G50-70: ~/alx-system_engineering-devops/0x02-shell_redirections[01;32mmark@mark-Lenovo-G50-70[00m:[01;34m~/alx-system_engineering-devops/0x02-shell_redirections[00m$ 
-[?2004l[?2004h]0;mark@mark-Lenovo-G50-70: ~/alx-system_engineering-devops/0x02-shell_redirections[01;32mmark@mark-Lenovo-G50-70[00m:[01;34m~/alx-system_engineering-devops/0x02-shell_redirections[00m$ l[K
-[?2004l[?2004h]0;mark@mark-Lenovo-G50-70: ~/alx-system_engineering-devops/0x02-shell_redirections[01;32mmark@mark-Lenovo-G50-70[00m:[01;34m~/alx-system_engineering-devops/0x02-shell_redirections[00m$ 
-[?2004l[?2004h]0;mark@mark-Lenovo-G50-70: ~/alx-system_engineering-devops/0x02-shell_redirections[01;32mmark@mark-Lenovo-G50-70[00m:[01;34m~/alx-system_engineering-devops/0x02-shell_redirections[00m$ 
-[?2004l[?2004h]0;mark@mark-Lenovo-G50-70: ~/alx-system_engineering-devops/0x02-shell_redirections[01;32mmark@mark-Lenovo-G50-70[00m:[01;34m~/alx-system_engineering-devops/0x02-shell_redirections[00m$ 
-[?2004l[?2004h]0;mark@mark-Lenovo-G50-70: ~/alx-system_engineering-devops/0x02-shell_redirections[01;32mmark@mark-Lenovo-G50-70[00m:[01;34m~/alx-system_engineering-devops/0x02-shell_redirections[00m$ 
-[?2004l[?2004h]0;mark@mark-Lenovo-G50-70: ~/alx-system_engineering-devops/0x02-shell_redirections[01;32mmark@mark-Lenovo-G50-70[00m:[01;34m~/alx-system_engineering-devops/0x02-shell_redirections[00m$ wertgyh[Cls[Kclear[C[3Plsmkdir Njenga's files[Cls[Ktouch 0-hello_world[Cls[Kmkdir Njenga's files[Cls[Kclear[C[3Plswertgyh[Cls[Kclear[C[3Plsmkdir Njenga's filesscript that prints “Hello, World”,lsllslldkjhgvbnm,.....,mn bvcxzsdfgyuiop;/.,mnba'\
+'hello world script'
